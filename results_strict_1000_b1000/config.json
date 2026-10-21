@@ -1,0 +1,40 @@
+{
+ "frozen_at": "2026-10-21 02:24:24",
+ "seeds": [
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "world": {
+  "n_facts": 1000,
+  "n_values": 10,
+  "dim": 32,
+  "n_groups": 10,
+  "group_spread": 0.6,
+  "noise": 0.35,
+  "n_train": 8,
+  "n_probe": 20,
+  "n_test": 50
+ },
+ "train": {
+  "hidden": 128,
+  "lr": 0.001,
+  "replay_bs": 32,
+  "mem_per_item": 4,
+  "k": 20
+ },
+ "strict": {
+  "k": 10,
+  "tau_new": 0.9,
+  "tau_old": 0.8,
+  "max_loops_per_fact": 1000
+ },
+ "code_sha256": {
+  "rgll/strict.py": "0d78e264541e83d53fa5fed39314abf367340226bd855489a3ec30d167d0dcc4",
+  "rgll/data.py": "68836394c90b75a706e7a398ca98295134bffdaed5e4a75dc0bdfcc52479dabd",
+  "rgll/learner.py": "b929882c5451b04bbbf1cbc6a401066505a58e6db24b614aaf04fd50251ad158",
+  "run_strict.py": "e478f677c75f1fb2de7233fb5e3859ba2af5f1f408ea56beaf1e58f7c9978191"
+ }
+}

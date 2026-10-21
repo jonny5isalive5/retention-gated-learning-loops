@@ -1,0 +1,185 @@
+seed 0 fact 10: accepted after 1 loops; 10 accepted so far
+seed 0 fact 20: accepted after 2 loops; 20 accepted so far
+seed 0 fact 30: accepted after 2 loops; 30 accepted so far
+seed 0 fact 40: accepted after 1 loops; 40 accepted so far
+seed 0 fact 50: accepted after 2 loops; 50 accepted so far
+seed 0 fact 60: accepted after 2 loops; 60 accepted so far
+seed 0 fact 70: accepted after 3 loops; 70 accepted so far
+seed 0 fact 80: accepted after 2 loops; 80 accepted so far
+seed 0 fact 90: accepted after 1 loops; 90 accepted so far
+seed 0 fact 100: accepted after 2 loops; 100 accepted so far
+seed 0 fact 110: accepted after 3 loops; 110 accepted so far
+seed 0 fact 120: accepted after 1 loops; 120 accepted so far
+seed 0 fact 130: accepted after 3 loops; 130 accepted so far
+seed 0 fact 140: accepted after 10 loops; 140 accepted so far
+seed 0 fact 150: accepted after 4 loops; 150 accepted so far
+seed 0 fact 160: accepted after 2 loops; 160 accepted so far
+seed 0 fact 170: accepted after 4 loops; 170 accepted so far
+seed 0 fact 180: accepted after 18 loops; 180 accepted so far
+seed 0 fact 190: accepted after 5 loops; 190 accepted so far
+seed 0 fact 200: accepted after 6 loops; 200 accepted so far
+seed 0 fact 210: accepted after 10 loops; 210 accepted so far
+seed 0 fact 220: accepted after 3 loops; 220 accepted so far
+seed 0 fact 230: accepted after 13 loops; 230 accepted so far
+seed 0 fact 239: NOT accepted after 200 loops; 238 accepted so far
+== seed 0: 238/1000 accepted, STOPPED: budget of 200 loops reached at fact 239: 1 accepted fact(s) below 80% (221s)
+seed 1 fact 10: accepted after 3 loops; 10 accepted so far
+seed 1 fact 20: accepted after 1 loops; 20 accepted so far
+seed 1 fact 30: accepted after 2 loops; 30 accepted so far
+seed 1 fact 40: accepted after 3 loops; 40 accepted so far
+seed 1 fact 50: accepted after 2 loops; 50 accepted so far
+seed 1 fact 60: accepted after 2 loops; 60 accepted so far
+seed 1 fact 70: accepted after 3 loops; 70 accepted so far
+seed 1 fact 80: accepted after 2 loops; 80 accepted so far
+seed 1 fact 90: accepted after 2 loops; 90 accepted so far
+seed 1 fact 100: accepted after 2 loops; 100 accepted so far
+seed 1 fact 110: accepted after 5 loops; 110 accepted so far
+seed 1 fact 120: accepted after 2 loops; 120 accepted so far
+seed 1 fact 130: accepted after 2 loops; 130 accepted so far
+seed 1 fact 140: accepted after 3 loops; 140 accepted so far
+seed 1 fact 150: NOT accepted after 200 loops; 149 accepted so far
+== seed 1: 149/1000 accepted, STOPPED: budget of 200 loops reached at fact 150: 1 accepted fact(s) below 80% (64s)
+seed 2 fact 10: accepted after 2 loops; 10 accepted so far
+seed 2 fact 20: accepted after 2 loops; 20 accepted so far
+seed 2 fact 30: accepted after 2 loops; 30 accepted so far
+seed 2 fact 40: accepted after 3 loops; 40 accepted so far
+seed 2 fact 50: accepted after 2 loops; 50 accepted so far
+seed 2 fact 60: accepted after 3 loops; 60 accepted so far
+seed 2 fact 70: accepted after 2 loops; 70 accepted so far
+seed 2 fact 80: accepted after 2 loops; 80 accepted so far
+seed 2 fact 90: accepted after 2 loops; 90 accepted so far
+seed 2 fact 100: accepted after 2 loops; 100 accepted so far
+seed 2 fact 110: accepted after 2 loops; 110 accepted so far
+seed 2 fact 120: accepted after 3 loops; 120 accepted so far
+seed 2 fact 130: accepted after 19 loops; 130 accepted so far
+seed 2 fact 140: accepted after 6 loops; 140 accepted so far
+seed 2 fact 150: accepted after 3 loops; 150 accepted so far
+seed 2 fact 160: accepted after 2 loops; 160 accepted so far
+seed 2 fact 170: accepted after 3 loops; 170 accepted so far
+seed 2 fact 180: accepted after 2 loops; 180 accepted so far
+seed 2 fact 190: accepted after 2 loops; 190 accepted so far
+seed 2 fact 200: accepted after 3 loops; 200 accepted so far
+seed 2 fact 210: accepted after 2 loops; 210 accepted so far
+seed 2 fact 220: accepted after 4 loops; 220 accepted so far
+seed 2 fact 230: accepted after 3 loops; 230 accepted so far
+seed 2 fact 240: accepted after 6 loops; 240 accepted so far
+seed 2 fact 250: accepted after 2 loops; 250 accepted so far
+seed 2 fact 260: accepted after 2 loops; 260 accepted so far
+seed 2 fact 270: accepted after 4 loops; 270 accepted so far
+seed 2 fact 280: accepted after 14 loops; 280 accepted so far
+seed 2 fact 290: accepted after 4 loops; 290 accepted so far
+seed 2 fact 300: accepted after 5 loops; 300 accepted so far
+seed 2 fact 310: accepted after 7 loops; 310 accepted so far
+seed 2 fact 320: accepted after 40 loops; 320 accepted so far
+seed 2 fact 327: NOT accepted after 200 loops; 326 accepted so far
+== seed 2: 326/1000 accepted, STOPPED: budget of 200 loops reached at fact 327: 1 accepted fact(s) below 80% (269s)
+seed 3 fact 10: accepted after 1 loops; 10 accepted so far
+seed 3 fact 20: accepted after 2 loops; 20 accepted so far
+seed 3 fact 30: accepted after 2 loops; 30 accepted so far
+seed 3 fact 40: accepted after 2 loops; 40 accepted so far
+seed 3 fact 50: accepted after 2 loops; 50 accepted so far
+seed 3 fact 60: accepted after 3 loops; 60 accepted so far
+seed 3 fact 70: accepted after 2 loops; 70 accepted so far
+seed 3 fact 80: accepted after 2 loops; 80 accepted so far
+seed 3 fact 90: accepted after 2 loops; 90 accepted so far
+seed 3 fact 100: accepted after 2 loops; 100 accepted so far
+seed 3 fact 110: accepted after 2 loops; 110 accepted so far
+seed 3 fact 120: accepted after 2 loops; 120 accepted so far
+seed 3 fact 130: accepted after 3 loops; 130 accepted so far
+seed 3 fact 140: accepted after 5 loops; 140 accepted so far
+seed 3 fact 150: accepted after 2 loops; 150 accepted so far
+seed 3 fact 160: accepted after 2 loops; 160 accepted so far
+seed 3 fact 170: accepted after 3 loops; 170 accepted so far
+seed 3 fact 180: accepted after 2 loops; 180 accepted so far
+seed 3 fact 190: accepted after 5 loops; 190 accepted so far
+seed 3 fact 200: accepted after 2 loops; 200 accepted so far
+seed 3 fact 210: accepted after 3 loops; 210 accepted so far
+seed 3 fact 212: NOT accepted after 200 loops; 211 accepted so far
+== seed 3: 211/1000 accepted, STOPPED: budget of 200 loops reached at fact 212: 1 accepted fact(s) below 80% (107s)
+seed 4 fact 10: accepted after 3 loops; 10 accepted so far
+seed 4 fact 20: accepted after 1 loops; 20 accepted so far
+seed 4 fact 30: accepted after 2 loops; 30 accepted so far
+seed 4 fact 40: accepted after 2 loops; 40 accepted so far
+seed 4 fact 50: accepted after 2 loops; 50 accepted so far
+seed 4 fact 60: accepted after 2 loops; 60 accepted so far
+seed 4 fact 70: accepted after 2 loops; 70 accepted so far
+seed 4 fact 80: accepted after 3 loops; 80 accepted so far
+seed 4 fact 90: accepted after 1 loops; 90 accepted so far
+seed 4 fact 100: accepted after 2 loops; 100 accepted so far
+seed 4 fact 110: accepted after 4 loops; 110 accepted so far
+seed 4 fact 120: accepted after 3 loops; 120 accepted so far
+seed 4 fact 130: accepted after 4 loops; 130 accepted so far
+seed 4 fact 140: accepted after 3 loops; 140 accepted so far
+seed 4 fact 150: accepted after 3 loops; 150 accepted so far
+seed 4 fact 160: accepted after 6 loops; 160 accepted so far
+seed 4 fact 170: accepted after 5 loops; 170 accepted so far
+seed 4 fact 180: accepted after 2 loops; 180 accepted so far
+seed 4 fact 190: accepted after 4 loops; 190 accepted so far
+seed 4 fact 200: accepted after 2 loops; 200 accepted so far
+seed 4 fact 210: accepted after 2 loops; 210 accepted so far
+seed 4 fact 220: accepted after 2 loops; 220 accepted so far
+seed 4 fact 230: accepted after 10 loops; 230 accepted so far
+seed 4 fact 240: accepted after 10 loops; 240 accepted so far
+seed 4 fact 250: accepted after 5 loops; 250 accepted so far
+seed 4 fact 260: accepted after 5 loops; 260 accepted so far
+seed 4 fact 270: accepted after 6 loops; 270 accepted so far
+seed 4 fact 280: accepted after 3 loops; 280 accepted so far
+seed 4 fact 290: accepted after 75 loops; 290 accepted so far
+seed 4 fact 292: NOT accepted after 200 loops; 291 accepted so far
+== seed 4: 291/1000 accepted, STOPPED: budget of 200 loops reached at fact 292: 1 accepted fact(s) below 80% (221s)
+
+# Strict RGLL: results
+
+**Hypothesis (Jonathan Harriss):** present one fact at a time. The network may advance only after it has
+demonstrated retention of the new fact **and every previously accepted fact**. If it cannot, it stops.
+
+**Rules applied:** no deferral, no skipping, no recovery pass. After every learning loop, every fact is
+checked: new fact ≥ 90% and every accepted fact ≥ 80% on probe samples it never
+trained on. Budget: 200 loops (2,000 training updates) per fact;
+reaching it means STOP. Retention is also verified on a third, separate test set at every acceptance.
+
+5 seeds · stream of 1000 facts · main-setting world and network (unchanged from `results/`).
+
+## Outcome
+
+| Seed | Facts accepted | Outcome | Total loops | Training updates | Total compute | Verified retention at last acceptance: mean · min · share ≥80% |
+|---|---|---|---|---|---|---|
+| 0 | **238 / 1000** | **STOPPED at fact 239** | 1,636 | 16,360 | 8.16 M | 97.3% · 64.0% · 98.7% |
+| 1 | **149 / 1000** | **STOPPED at fact 150** | 612 | 6,120 | 2.22 M | 98.3% · 80.0% · 100.0% |
+| 2 | **326 / 1000** | **STOPPED at fact 327** | 1,807 | 18,070 | 11.19 M | 97.2% · 64.0% · 99.1% |
+| 3 | **211 / 1000** | **STOPPED at fact 212** | 825 | 8,250 | 3.68 M | 98.2% · 74.0% · 99.5% |
+| 4 | **291 / 1000** | **STOPPED at fact 292** | 1,605 | 16,050 | 9.24 M | 98.2% · 80.0% · 100.0% |
+
+Facts accepted: 238, 149, 326, 211, 291 (min 149, max 326).
+
+## Stopping points
+
+- Seed 0: budget of 200 loops reached at fact 239: 1 accepted fact(s) below 80%.
+- Seed 1: budget of 200 loops reached at fact 150: 1 accepted fact(s) below 80%.
+- Seed 2: budget of 200 loops reached at fact 327: 1 accepted fact(s) below 80%.
+- Seed 3: budget of 200 loops reached at fact 212: 1 accepted fact(s) below 80%.
+- Seed 4: budget of 200 loops reached at fact 292: 1 accepted fact(s) below 80%.
+
+A stopping point is the ceiling **under this architecture, training method, thresholds and budget**.
+It is not an absolute capacity limit of the network.
+
+## Cost per fact as the accepted set grows (all seeds)
+
+| Facts | Mean loops per fact | Mean training updates per fact | Mean compute per fact |
+|---|---|---|---|
+| 1–10 | 1.26 | 13 | 1.6 k |
+| 11–25 | 1.73 | 17 | 2.8 k |
+| 26–50 | 1.97 | 20 | 4.1 k |
+| 51–75 | 2.28 | 23 | 6.0 k |
+| 76–100 | 2.33 | 23 | 7.4 k |
+
+Per-fact records (loops, updates, compute, gate results, verified retention): `facts_seed<N>.csv`.
+
+## Config (frozen in config.json before training)
+```
+world:  {'n_facts': 1000, 'n_values': 10, 'dim': 32, 'n_groups': 10, 'group_spread': 0.6, 'noise': 0.35, 'n_train': 8, 'n_probe': 20, 'n_test': 50}
+train:  {'hidden': 512, 'lr': 0.001, 'replay_bs': 32, 'mem_per_item': 4, 'k': 20}
+strict: {'k': 10, 'tau_new': 0.9, 'tau_old': 0.8, 'max_loops_per_fact': 200}
+```
+
+Wrote results_strict_1000_h512/
