@@ -50,6 +50,8 @@ py -3.12 -m venv .venv
 
 Read [limitations](LIMITATIONS.md) and [provenance](PROVENANCE.md). The [original README](README.original.md), all eight available result directories and all eight available logs are retained. Historical reports contain stronger interpretations and sometimes misleading descriptions of modified progression; this README and the limitations supply the corrected scope. The interrupted stress attempts survive as narrative in the original README; separate raw files for those attempts were not found.
 
-The original MS Paint conceptual drawing is pending the owner's exact file path; no substitute has been created. Its absence does not change the experimental record.
+**Original conceptual drawing — Jonathan Harriss.** Preserved byte-for-byte from the owner's MS Paint image; a conceptual illustration, not an experimental result. [Provenance and SHA-256](provenance/drawing.json).
+
+![Jonathan Harriss's original RGLL conceptual drawing](assets/original-concept.png)
 
 No license was supplied. Public availability does not grant a reuse license; see [NOTICE](NOTICE). Third-party dependencies retain their own licenses and are not bundled.

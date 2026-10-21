@@ -10,7 +10,7 @@ The only supplied file with changed content is `strict_1000_run.log`: two local 
 
 The local virtual environment and Python caches are excluded: they are generated dependencies, include installation paths, and are unnecessary for research evidence. Installed package versions were extracted from metadata without importing the experiment, and recorded in `requirements-observed.txt`. No credential patterns were found in the publication scan; a review of personal paths, email patterns, license notices and file sizes found only the redacted log paths and a legitimate dependency URL. No supplied research file exceeds 1 MB. No Git history was present or imported.
 
-The original MS Paint drawing was absent from the scoped folder. The owner was asked for its exact path. It is not represented by an invented or regenerated image.
+The original MS Paint drawing was supplied separately from the owner's Desktop and confirmed by the owner after the initial publication. It is included unchanged as `assets/original-concept.png`, credited to Jonathan Harriss. `provenance/drawing.json` records its original filename, size and matching original/public SHA-256. The PNG has no text or EXIF metadata chunks. Its original Desktop file remains untouched; a private preservation copy is also retained.
 
 ## Hash coverage and historical gaps
 
